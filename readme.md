@@ -4,6 +4,8 @@
 PassGen is a security tool intended to generate a potential password list for a target using different combinations of capital 
 letters and common substitutions.  It can also be used to make HTTP requests to see if any passwords from the list are valid.  
 
+This project was forked and updated for Python 3 from https://github.com/Broham/PassGen
+
 **It is intended to be used for internal security testing to identify any weak passwords that might be in use and 
 should never be used against a target without their full consent.**
 
